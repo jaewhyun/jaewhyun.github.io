@@ -8,7 +8,7 @@ title: Me
 </div>
 I'm a second year graduate student in the NYU Courant Institute MSCS program, interested in software development and data analytics 👩🏻‍💻.
 
-<a href="{{ site.baseurl }}/projectsandblogs">**Check out my projects and blog posts**</a>
+<a href="{{ site.baseurl }}/projectsandblogs">**Check out my projects and blog posts!**</a>
 
 I grew up in 🇰🇷 and 🇨🇦. I went to college in Atlanta, worked in Boston, and currently live in NYC📍.
 
