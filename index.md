@@ -7,7 +7,7 @@ title: Me
   Hi, I'm Jae.
 </p>
 
-![profile-pic](/images/jae_profile.jpg){:height="800px" width="166px"}
+<img style="float: right;" src="/images/jae_profile.jpg">
 I'm a second year graduate student in the NYU Courant Institute MSCS program, interested in software development and data analytics.
 
 I grew up in South Korea and Canada. I went to college in Atlanta, worked in Boston, and currently live in NYC!<br>
