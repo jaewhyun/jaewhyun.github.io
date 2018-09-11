@@ -561,3 +561,16 @@ a.pagination-item:hover {
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
+
+.round {
+  border-radius: 50%;
+  overflow: hidden;
+  width: 300px;
+  height: 300px;
+}
+
+.round img {
+  display: block;
+  mid-width: 100%;
+  min-height: 100%;
+}
