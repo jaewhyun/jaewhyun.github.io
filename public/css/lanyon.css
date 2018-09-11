@@ -570,7 +570,9 @@ a.pagination-item:hover {
 }
 
 .round img {
-  display: inline;
+  display: block;
+  float: left;
+  position: relative;
   mid-width: 100%;
   min-height: 100%;
 }
