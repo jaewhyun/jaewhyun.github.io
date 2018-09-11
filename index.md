@@ -3,10 +3,6 @@ layout: default
 title: Me
 ---
 
-<p class="message">
-  Hi, I'm Jae.
-</p>
-
 <div class="round">
   <img src="/images/jae_profile.jpg"/>
 </div>
