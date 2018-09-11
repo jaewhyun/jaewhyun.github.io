@@ -29,6 +29,7 @@ Used public crime data (provided by the NYPD) to model and forecast crime rates 
 
 Created a Twitter Bot that generates Tweets in Pig Latin.
 
+
 ## Blogs
 ----
 ### <a href="https://medium.com/@jaewhyun/gsoc-18-w-the-processing-foundation-b6e8af4d342c">GSoC ’18 w/ The Processing Foundation</a>
