@@ -569,6 +569,7 @@ a.pagination-item:hover {
   overflow: hidden;
   width: 300px;
   height: 300px;
+  margin-right: 50px;
 }
 
 .round img {
