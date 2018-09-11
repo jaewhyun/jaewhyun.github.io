@@ -563,6 +563,8 @@ a.pagination-item:hover {
 }
 
 .round {
+  float: left;
+  position: relative;
   border-radius: 50%;
   overflow: hidden;
   width: 300px;
@@ -571,8 +573,6 @@ a.pagination-item:hover {
 
 .round img {
   display: block;
-  float: left;
-  position: relative;
   mid-width: 100%;
   min-height: 100%;
 }
