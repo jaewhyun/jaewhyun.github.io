@@ -35,6 +35,8 @@ Created a Twitter Bot that generates Tweets in Pig Latin.
 ----
 ### <a href="https://medium.com/@jaewhyun/gsoc-18-w-the-processing-foundation-b6e8af4d342c">GSoC ’18 w/ The Processing Foundation</a>
 
+### <a href="https://medium.com/processing-foundation/making-the-processing-development-environment-better-for-beginners-a43302952f18">Making the Processing Development Environment Better for Beginners</a>
+
 ### <a href="https://medium.com/@jaewhyun/why-i-decided-to-study-computer-science-after-college-b2f5ddd3bffa">Why I Decided to Study Computer Science After College</a>
 
 ### <a href="https://medium.com/@jaewhyun/my-experience-with-getting-into-a-masters-program-for-computer-science-6b7af6f22cb1">My Experience with Applying to Master’s Programs for Computer Science with NO Background</a>
