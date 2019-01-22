@@ -5,6 +5,10 @@ title: Projects and Blogs
 
 ## Projects
 ----
+### <a href="https://medium.com/@jaewhyun/building-a-watchos-and-ios-app-using-coremotion-and-watchconnectivity-594bfe0839bf">Building a watchOS and an iOS app using CoreMotion and WatchConnectivity</a>
+
+A Swift app that predicts a series of exercises in a real-time manner.
+
 ### <a href="https://www.github.com/jaewhyun/GettingStarted">Getting Started Tool for the Processing Development Environment</a>
 
 A contributed Tool for the PDE that provides a quick introduction for new/beginner users (Java Swing).
